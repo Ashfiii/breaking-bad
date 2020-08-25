@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ashfiii/breaking-bad.git/static/css/main.ed61c270.chunk.css",
+    "main.js": "/Ashfiii/breaking-bad.git/static/js/main.77e9987d.chunk.js",
+    "main.js.map": "/Ashfiii/breaking-bad.git/static/js/main.77e9987d.chunk.js.map",
+    "runtime-main.js": "/Ashfiii/breaking-bad.git/static/js/runtime-main.60d1cd77.js",
+    "runtime-main.js.map": "/Ashfiii/breaking-bad.git/static/js/runtime-main.60d1cd77.js.map",
+    "static/js/2.33e7f648.chunk.js": "/Ashfiii/breaking-bad.git/static/js/2.33e7f648.chunk.js",
+    "static/js/2.33e7f648.chunk.js.map": "/Ashfiii/breaking-bad.git/static/js/2.33e7f648.chunk.js.map",
+    "index.html": "/Ashfiii/breaking-bad.git/index.html",
+    "precache-manifest.69110dd4f4b8ec706c54bfedb59f4a54.js": "/Ashfiii/breaking-bad.git/precache-manifest.69110dd4f4b8ec706c54bfedb59f4a54.js",
+    "service-worker.js": "/Ashfiii/breaking-bad.git/service-worker.js",
+    "static/css/main.ed61c270.chunk.css.map": "/Ashfiii/breaking-bad.git/static/css/main.ed61c270.chunk.css.map",
+    "static/js/2.33e7f648.chunk.js.LICENSE.txt": "/Ashfiii/breaking-bad.git/static/js/2.33e7f648.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Ashfiii/breaking-bad.git/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/Ashfiii/breaking-bad.git/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/Ashfiii/breaking-bad.git/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60d1cd77.js",
+    "static/js/2.33e7f648.chunk.js",
+    "static/css/main.ed61c270.chunk.css",
+    "static/js/main.77e9987d.chunk.js"
+  ]
+}
